@@ -2,7 +2,8 @@
   "name": "eth-swap",
   "version": "0.1.0",
   "description": "Instant ERC20 Crypto Exchange",
-  "author": "gregory@dappuniversity.com",
+  "author": "Nishant Vemulakonda",
+  "homepage": "https://itznishant.github.io/CryptoExchangeDapp",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
@@ -28,7 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,5 +41,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

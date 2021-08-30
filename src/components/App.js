@@ -105,8 +105,8 @@ class App extends Component {
       <Navbar account={this.state.account} balance ={this.state.ethBalance}/>
         <div className="container-fluid mt-5">
           <div className="row">
-            <main role="main" className="col-lg-12 ml-auto mr-auto" style={{maxwidth: '600px'}}>
-              <div className="content mr-auto ml-auto">
+            <main role="main" className="col-lg-12 d-flex ml-auto mr-auto" style={{maxwidth: '600px'}}>
+              <div className="content ml-auto mr-auto">
                 <a
                   href="https://github.com/itznishant"
                   target="_blank"

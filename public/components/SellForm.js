@@ -21,7 +21,7 @@ class SellForm extends Component {
           this.props.sellTokens(etherAmount)
         }}>
         <div>
-          <label className="float-left"><b>Input</b></label>
+          <label className="float-left"><b>You Exchange</b></label>
           <span className="float-right text-muted">
             Balance: {window.web3.utils.fromWei(this.props.tokenBalance, 'Ether')}
           </span>
@@ -47,7 +47,7 @@ class SellForm extends Component {
           </div>
         </div>
         <div>
-          <label className="float-left"><b>Output</b></label>
+          <label className="float-left"><b>You Get</b></label>
           <span className="float-right text-muted">
             Balance: {window.web3.utils.fromWei(this.props.ethBalance, 'Ether')}
           </span>
