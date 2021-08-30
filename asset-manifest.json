@@ -1,7 +1,7 @@
 {
-  "main.css": "/CryptoExchangeDapp/static/css/main.696e39df.chunk.css",
-  "main.js": "/CryptoExchangeDapp/static/js/main.d6555995.chunk.js",
-  "main.js.map": "/CryptoExchangeDapp/static/js/main.d6555995.chunk.js.map",
+  "main.css": "/CryptoExchangeDapp/static/css/main.7da3753e.chunk.css",
+  "main.js": "/CryptoExchangeDapp/static/js/main.a242d49b.chunk.js",
+  "main.js.map": "/CryptoExchangeDapp/static/js/main.a242d49b.chunk.js.map",
   "static/css/1.b8a53443.chunk.css": "/CryptoExchangeDapp/static/css/1.b8a53443.chunk.css",
   "static/js/1.485deb77.chunk.js": "/CryptoExchangeDapp/static/js/1.485deb77.chunk.js",
   "static/js/1.485deb77.chunk.js.map": "/CryptoExchangeDapp/static/js/1.485deb77.chunk.js.map",
@@ -10,8 +10,8 @@
   "static/media/SASILogo.png": "/CryptoExchangeDapp/static/media/SASILogo.c06ccd6b.png",
   "static/media/ethLogo_.png": "/CryptoExchangeDapp/static/media/ethLogo_.bd758393.png",
   "static/css/1.b8a53443.chunk.css.map": "/CryptoExchangeDapp/static/css/1.b8a53443.chunk.css.map",
-  "static/css/main.696e39df.chunk.css.map": "/CryptoExchangeDapp/static/css/main.696e39df.chunk.css.map",
+  "static/css/main.7da3753e.chunk.css.map": "/CryptoExchangeDapp/static/css/main.7da3753e.chunk.css.map",
   "index.html": "/CryptoExchangeDapp/index.html",
-  "precache-manifest.fa6384656f55bc13eba2c920c8ddca7c.js": "/CryptoExchangeDapp/precache-manifest.fa6384656f55bc13eba2c920c8ddca7c.js",
+  "precache-manifest.4153f1e84fd47e348f42cb5c253cf06a.js": "/CryptoExchangeDapp/precache-manifest.4153f1e84fd47e348f42cb5c253cf06a.js",
   "service-worker.js": "/CryptoExchangeDapp/service-worker.js"
 }

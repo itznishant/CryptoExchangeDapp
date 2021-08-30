@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d6555995dfb118d00cb8",
-    "url": "/CryptoExchangeDapp/static/css/main.696e39df.chunk.css"
+    "revision": "a242d49bc900d835c93d",
+    "url": "/CryptoExchangeDapp/static/css/main.7da3753e.chunk.css"
   },
   {
-    "revision": "d6555995dfb118d00cb8",
-    "url": "/CryptoExchangeDapp/static/js/main.d6555995.chunk.js"
+    "revision": "a242d49bc900d835c93d",
+    "url": "/CryptoExchangeDapp/static/js/main.a242d49b.chunk.js"
   },
   {
     "revision": "485deb770998bba004ed",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/CryptoExchangeDapp/static/media/ethLogo_.bd758393.png"
   },
   {
-    "revision": "a5e9c6c2941801a79ef6bf99e36c9903",
+    "revision": "0fc56c1b1525adc4f5e7bfff813647f2",
     "url": "/CryptoExchangeDapp/index.html"
   }
 ];
