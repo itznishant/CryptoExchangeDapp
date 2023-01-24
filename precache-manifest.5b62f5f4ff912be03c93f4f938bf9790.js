@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/CryptoExchangeDapp/static/media/ethLogo_.bd758393.png"
   },
   {
-    "revision": "0fc56c1b1525adc4f5e7bfff813647f2",
+    "revision": "1f5edbf99d4f31de3930c80ae09ab04f",
     "url": "/CryptoExchangeDapp/index.html"
   }
 ];
